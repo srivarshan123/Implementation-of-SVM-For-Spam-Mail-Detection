@@ -49,7 +49,7 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+![SVM For Spam Mail Detection]()
 
 
 ## Result:
