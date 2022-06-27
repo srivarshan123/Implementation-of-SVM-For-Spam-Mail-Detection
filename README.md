@@ -8,7 +8,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.start the program.
+1. start the program.
 2. import pandas and read csv file.
 3. print data head,info(),isnull().
 4. assign x and y value as v1,v2.
